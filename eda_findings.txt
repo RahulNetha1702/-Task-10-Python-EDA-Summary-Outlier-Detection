@@ -1,0 +1,10 @@
+
+Task 10: Python EDA – Key Findings
+
+1. Dataset contains 200 rows and 6 columns after cleaning.
+2. SalePrice showed right skew with several high-end outliers.
+3. IQR method identified extreme SalePrice values which were capped.
+4. LotArea had missing values (~5%) and was imputed using median.
+5. OverallQual showed positive correlation with SalePrice.
+6. YearBuilt had a moderate positive relationship with SalePrice.
+7. Outlier handling improved distribution stability without data loss.
